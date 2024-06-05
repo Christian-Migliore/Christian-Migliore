@@ -1,6 +1,6 @@
 <div style="display:table-cell; vertical-align:middle; text-align:center">
-<img src="img.png">
- ![Software development](https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png)
+<img src="https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png">
+![Software development](https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png)
 </div>
 
 <h1 align="center">Hi 👋, I'm Christian</h1>
