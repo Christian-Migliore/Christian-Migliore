@@ -1,5 +1,5 @@
 <div style="display:table-cell; vertical-align:middle; text-align:center">
-<img src="https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png">
+<img align="middle"  src="https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png">
 ![Software development](https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png)
 </div>
 
