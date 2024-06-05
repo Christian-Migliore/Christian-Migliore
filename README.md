@@ -1,8 +1,8 @@
 <div style="display:table-cell; vertical-align:middle; text-align:center">
 <img align="middle"  src="https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png">
-![Software development](https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png)
-</div>
 
+</div>
+![Software development](https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="left">🚀 About Me:</h3>
 <h4 align="left">I'm a passionate developer who loves building innovative solutions and exploring new technologies. My tech journey began [X] years ago, and since then, I've been committed to enhancing my skills and actively contributing to the developer community.
