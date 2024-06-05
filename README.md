@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
+![Software development](https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png)
 
- <!-- Optional: Add a banner image -->
- [Software development](https://github.com/Christian-Migliore/Christian-Migliore/blob/main/Banner.png)
- 
+<h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="left">🚀 About Me:</h3>
 <h4 align="left">I'm a passionate developer who loves building innovative solutions and exploring new technologies. My tech journey began [X] years ago, and since then, I've been committed to enhancing my skills and actively contributing to the developer community.
 </h4>
