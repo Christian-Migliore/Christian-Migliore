@@ -37,10 +37,10 @@ Post Title 3
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">🌟 Projects:</h3>
 
-Project 1 Name
+User data Entry
 Description: Brief description of project 1.
 
-Project 2 Name
+Server management System
 Description: Brief description of project 2.
 
 Project 3 Name
